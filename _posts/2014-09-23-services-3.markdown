@@ -1,7 +1,0 @@
----
-layout: default
-img: benefits.png
-category: Services
-title: ประโยชน์ที่ได้รับ
-description: |
----
