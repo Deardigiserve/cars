@@ -27,6 +27,7 @@ h6 {
 }
 
 .logocars{
+    display:block;
     justify-content:center;
     align-items:center;
     margin-left:auto;
