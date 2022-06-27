@@ -27,8 +27,9 @@ h6 {
 }
 
 .logocars{
-    width: 40px;
-    height: 40px;
+    width: 3px;
+    height: 3px;
+    display: flex;
     justify-content: center;
     align-items: center;
  }
